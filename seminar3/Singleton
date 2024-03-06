@@ -1,0 +1,2 @@
+oclasa care poate fi instantiata o singura data, se face prin constructor privat. O functie care c-a instantia get instance.
+El este folosit la baza de date daca instantiem o conexiune, deoarece avem o singura conexiune ,orce aplicatie de pe un sistem mobil si la android.
