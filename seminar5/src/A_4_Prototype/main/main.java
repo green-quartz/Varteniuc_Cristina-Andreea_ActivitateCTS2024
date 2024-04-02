@@ -16,6 +16,7 @@ public class main {
         AbstractReteta reteta1=new Reteta("Mig400",hartaIngrediente,26.3);
         AbstractReteta reteta2=reteta1.cloneaza();
         reteta2.setNumeMedicament("Altceva");
+//        hartaIngrediente.put("A",2.3);
         System.out.println(reteta1);
         System.out.println(reteta2);
         System.out.println(reteta1);
