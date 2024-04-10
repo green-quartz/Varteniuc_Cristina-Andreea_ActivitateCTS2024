@@ -1,0 +1,11 @@
+Compania dorește să adauge pe biletul printat un mesaj de susținere a echipei gazde. Compania
+dorește să adauge o nouă funcționalitate, astfel încât, la rezervarea biletului să fie printat acest
+mesaj doar atunci când joacă echipa locală. Pentru restul meciurilor biletele rămân la fel.
+
+
+De asemenea cand joaca echipa locala se aplica un discount pentru toata lumea de 10%.
+
+Daca joaca echipa nationala pe terenul respectiv se printeaza pe bilet un mesaj de sustinere a
+echipei nationale si nu a echipei locale.
+
+Decorator
