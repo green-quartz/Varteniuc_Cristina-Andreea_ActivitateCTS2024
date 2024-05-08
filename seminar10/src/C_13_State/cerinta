@@ -1,0 +1,5 @@
+13. Pentru fiecare rețetă se dorește gestiunea transformărilor atunci cand medicamentele sunt
+cumpărate. O rețetă poate sa fie într-una din următoarele stări: Emisa, Solicitata, Achizitionata.
+Starea Emisa este starea inițială a rețetei emise de medicul de familie. Starea Solicitata este starea
+in care ajunge atunci când clientul cere medicamentele la farmacie. Achizitionata este starea in are
+ajunge după ce medicamentele au fost cumpărate.
